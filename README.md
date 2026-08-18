@@ -91,6 +91,3 @@ The optimizer is stateless and recomputes from scratch on every button press. In
 
 ---
 
-## Author
-
-**Tanish Poddar** — [tanisheesh.in](https://tanisheesh.in) · [LinkedIn](https://linkedin.com/in/tanisheesh) · [GitHub](https://github.com/tanisheesh)
